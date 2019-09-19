@@ -1,2 +1,2 @@
-git is a distributed version control system.
-git id free softsware.
+git is a distributed version control system
+git id free softsware distributed under the GPL.
